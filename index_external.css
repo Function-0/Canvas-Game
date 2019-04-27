@@ -1,0 +1,94 @@
+/*
+ * Student: Ibrahim Jomaa | 300911528
+ * Date: 3/29/2019
+ * Filename: index_external.css
+ */
+
+footer {
+  text-align: center;
+}
+
+body {
+  font-family: Verdana;
+  font-size: 0.72em;
+}
+
+#mainContent {
+  background-color: #EBEDF2;
+  border: 0.2em solid;
+  box-shadow: 0.625em 0.625em 0.438em;
+  margin: 1em auto 5em auto;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 2em;
+  width: 75em;
+}
+
+#banner {
+  display: block;
+  margin: auto;
+}
+
+header {
+  clear: both;
+  margin: 0 0 1em 0;
+  text-align: center;
+  width: 75em;
+}
+
+h3, h5 {
+  margin: 0;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h3 {
+  font-size: 5em;
+}
+
+#banterArea {
+  margin-bottom: 1em;
+  font-size: 1.75em;
+  color:#800000;
+  font-weight: bold;
+  height: 2em;
+}
+
+#gameArea {
+  text-align: center;
+}
+
+canvas {
+  border: 0.2em solid;
+  box-shadow: 0.625em 0.625em 0.438em;
+}
+
+#buttonArea {
+  text-align: center;
+}
+
+.buttons {
+  display: inline-block;
+  margin: 2em 0 0.75em 0;
+  font-size: 1.7em;
+  font-family: Verdana;
+}
+
+footer p {
+  font-size: 4em;
+  margin: 0 0 0.3em 0;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
